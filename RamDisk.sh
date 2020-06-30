@@ -10,7 +10,7 @@
 # *  (*) Do Not Use My/Our Contribution(s) To Kill/Harm/Violate(or Steal-from)(Any) Human/Community,Earth,etc.
 # *  (*) GNU General Public License v3 (GPL v3) https://www.GNU.org/licenses/gpl-3.0.en.html 
 # * 
-# * RamDisk.sh - RamDisk - v0.50
+# * RamDisk.sh - RamDisk - v0.52
 # * It creates a ramdisk by using macOSX tools: diskutil, hdiutil, etc
 # * Use "Eject" in Finder, to erase it. (Warning: All Data Will Be Lost).
 # *************************************************************************
