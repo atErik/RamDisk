@@ -36,5 +36,7 @@ It needs "<a href="https://github.com/atErik/ShowMemory">ShowMemory</a>" (get th
 ## How to Use/Run:
 Any executable file needs the "Execute" attribute bit set, & if thats not done already:<br/>
 execute below commands:<br/>
-&#160;&#160;chmod&#160;&#160;+x&#160;&#160;RamDisk.sh<br/>
-&#160;&#160;chmod&#160;&#160;+x&#160;&#160;ShowMemory.sh
+&#160;&#160;chmod&#160;&#160;+x&#160;&#160;RamDisk&#46;sh<br/>
+&#160;&#160;chmod&#160;&#160;+x&#160;&#160;ShowMemory&#46;sh<br/>
+&#160;&#160;&#46;/RamDisk&#46;sh<br/>
+&#160;&#160;(above command will show How To Use it, follow that syntax/usage)<br/>
